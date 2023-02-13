@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1533035860 source:c:\users\saikat\desktop\newdxball\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810122 c:\users\saikat\desktop\newdxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533035862 source:e:\newdxball\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810124 e:\newdxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
